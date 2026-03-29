@@ -12,31 +12,30 @@ I'm **Tharusha Madhuranga Perera**, an Undergraduate at the **University of Kela
 
 ---
 
-## 🛠️ My Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+## 🛠️ Tech Stack
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-## 🐍 My Coding Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tharumadhuranga/tharumadhuranga/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+## 📊 GitHub Insights
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tharumadhuranga&show_icons=true&theme=transparent&hide_border=true&title_color=00d2ff&text_color=ffffff&icon_color=00d2ff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharumadhuranga&layout=compact&theme=transparent&hide_border=true&title_color=00d2ff&text_color=ffffff" height="150" />
 </p>
-<p align="center"><i>Eating my contribution squares one by one! 🐍</i></p>
 
 ---
 
 ## 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/tharusha-madhuranga-perera" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tharusha's LinkedIn" /></a>
-<a href="mailto:tharushamadurangaperera@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Tharusha's Gmail" /></a>
+<a href="https://linkedin.com/in/tharusha-madhuranga-perera" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:tharushamadurangaperera@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://instagram.com/t_h_arusha" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=tharumadhuranga&color=00d2ff&style=flat-square" alt="Profile Views" />
+  <font size="2">Profile Views: </font><img src="https://komarev.com/ghpvc/?username=tharumadhuranga&color=00d2ff&style=flat-square&label=" align="center" />
 </p>
