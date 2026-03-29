@@ -23,9 +23,9 @@ I'm **Tharusha Madhuranga Perera**, an Undergraduate at the **University of Kela
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=tharumadhuranga&theme=radical&column=4&margin-w=15" alt="tharumadhuranga trophies" />
+### 📊 Professional Metrics Dashboard
+<p align="center">
+  <img src="https://github-readme-metrics.vercel.app/tharumadhuranga?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FColombo&theme=tokyonight" width="100%" alt="Tharusha's Metrics" />
 </p>
 
 ---
