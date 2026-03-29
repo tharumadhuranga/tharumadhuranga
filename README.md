@@ -23,22 +23,11 @@ I'm **Tharusha Madhuranga Perera**, an Undergraduate at the **University of Kela
 
 ---
 
-### 📊 Professional Metrics Dashboard
+## 🐍 My Coding Activity
 <p align="center">
-  <img src="https://github-readme-metrics.vercel.app/tharumadhuranga?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FColombo&theme=tokyonight" width="100%" alt="Tharusha's Metrics" />
+  <img src="https://raw.githubusercontent.com/tharumadhuranga/tharumadhuranga/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
-
----
-
-## 📊 My Coding Stats 🚀
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharumadhuranga&show_icons=true&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharumadhuranga&layout=compact&theme=tokyonight" height="180px" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharumadhuranga&theme=tokyonight" />
-</p>
+<p align="center"><i>Eating my contribution squares one by one! 🐍</i></p>
 
 ---
 
