@@ -21,10 +21,9 @@ I'm **Tharusha Madhuranga Perera**, an Undergraduate at the **University of Kela
 
 ---
 
-## 📊 GitHub Insights
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharumadhuranga&show_icons=true&theme=transparent&hide_border=true&title_color=00d2ff&text_color=ffffff&icon_color=00d2ff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharumadhuranga&layout=compact&theme=transparent&hide_border=true&title_color=00d2ff&text_color=ffffff" height="150" />
+## 📈 Contribution Rhythm
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharumadhuranga&theme=react-dark&area=true&hide_border=true&bg_color=0d1117&color=00d2ff" width="100%" alt="Tharusha's Activity Graph" />
 </p>
 
 ---
@@ -37,5 +36,5 @@ I'm **Tharusha Madhuranga Perera**, an Undergraduate at the **University of Kela
 </p>
 
 <p align="right">
-  <font size="2">Profile Views: </font><img src="https://komarev.com/ghpvc/?username=tharumadhuranga&color=00d2ff&style=flat-square&label=" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=tharumadhuranga&color=00d2ff&style=flat-square&label=Profile+Views" align="center" />
 </p>
