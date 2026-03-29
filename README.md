@@ -25,19 +25,19 @@ I'm **Tharusha Madhuranga Perera**, an Undergraduate at the **University of Kela
 
 ## 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=tharumadhuranga&theme=radical&column=4&margin-w=15" alt="tharumadhuranga trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tharumadhuranga&theme=darkhub&column=4&margin-w=15" alt="tharumadhuranga trophies" />
 </p>
 
 ---
 
 ## 📊 My Coding Stats 🚀
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharumadhuranga&show_icons=true&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharumadhuranga&layout=compact&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tharumadhuranga&show_icons=true&theme=dark&hide_border=false" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharumadhuranga&layout=compact&theme=dark&hide_border=false" height="180px" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharumadhuranga&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharumadhuranga&theme=dark" />
 </p>
 
 ---
