@@ -8,13 +8,15 @@ I'm **Tharusha Madhuranga Perera** *(Undergraduate @ University of Kelaniya)*
 - 💻 My tech stack: **HTML, CSS, JavaScript, PHP**
 - ⚡ Fun fact: I'm interested in **Backend Engineering**
 
-### GitHub Stats
+### My GitHub Stats 🚀
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=tharumadhuranga&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tharumadhuranga&show_icons=true&theme=tokyonight" alt="Tharusha's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharumadhuranga&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharumadhuranga&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharumadhuranga&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
