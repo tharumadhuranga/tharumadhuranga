@@ -37,20 +37,18 @@ I'm **Tharusha Madhuranga Perera**, an Undergraduate at the **University of Kela
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=250&text=Featured%20Project&fontSize=50&fontAlign=center&fontAlignY=30&stroke=00d2ff&desc=Pharmacy%20Support%20System%20(Sri%20Lanka)%20-%20A%20comprehensive%20platform%20for%20local%20pharmacies" alt="Featured Project Banner" />
 </p>
 <p align="left">A secure and efficient system for managing pharmacy inventory, prescriptions, and billing.</p>
-<p align="left"><a href="#">View Repository (Add link)</a></p>
+<p align="left"><a href="#">View Repository</a></p>
 
 ---
 
 ## 🏆 Badges & Credentials
 <p align="left">
-  <img src="https://img.shields.io/badge/Verified-GitHub%20Student-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Verified GitHub Student" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-0078d4?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributor" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner%20(Placeholder)-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Certified Placeholder" />
   <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals%20(Placeholder)-0078d4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Microsoft Certified Placeholder" />
 </p>
-*(Note: Use professional badge service placeholders to showcase aspirations)*
 
 ---
 
