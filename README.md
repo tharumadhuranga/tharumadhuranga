@@ -21,6 +21,13 @@ I'm **Tharusha Madhuranga Perera**, an Undergraduate at the **University of Kela
 
 ---
 
+## 📊 Top Languages Used
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharumadhuranga&layout=compact&theme=react-dark&hide_border=true&title_color=00d2ff&text_color=ffffff" alt="Tharusha's Top Languages" />
+</p>
+
+---
+
 ## 📈 Contribution Rhythm
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharumadhuranga&theme=react-dark&area=true&hide_border=true&bg_color=0d1117&color=00d2ff" width="100%" alt="Tharusha's Activity Graph" />
